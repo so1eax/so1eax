@@ -4,4 +4,4 @@
 ![My Skills](https://skillicons.dev/icons?i=cpp,cs,lua,js,html,css)
 
 ## My Socials:
-[![My Socials](https://skillicons.dev/icons?i=discord)]([https://discord.com/users/1144070624692666439])
+[![My Socials](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1144070624692666439)
